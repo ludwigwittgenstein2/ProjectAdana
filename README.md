@@ -10,12 +10,16 @@ A Web application to help customers find information on visa, jobs
 -Jquery, Javscript, HTML
 
 
-
 #Tech:
 
 Apply RL in this Project
+  -What do we want to optimize?
+    For Users -- Correct Job
+    For Recruiters -- Correct Candidate
 
 Apply ML in this Project
+  -What data are we collecting that could help in better product?
+  
 
 #Pain-Points:
 
