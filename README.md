@@ -1,16 +1,21 @@
-## ProjectAdana
+# ProjectAdana
 
-A Web application to help customers find information on visa, jobs
+### In Development
+
+<img src="https://raw.githubusercontent.com/ludwigwittgenstein2/ProjectAdana/master/img/background/adana.png">
 
 
-##TechStack:
+A Django Web application to help customers find information on visa, jobs
+
+
+## TechStack:
 -Django
 -DataBase?
 -Python
 -Jquery, Javscript, HTML
 
 
-##Tech:
+## Tech:
 
 Apply RL in this Project
   -What do we want to optimize?
@@ -21,7 +26,7 @@ Apply ML in this Project
   -What data are we collecting that could help in better product?
 
 
-##Pain-Points:
+## Pain-Points:
 
 -Too many Resume [Recruiter]
 
@@ -31,14 +36,14 @@ Apply ML in this Project
       -automate finding a job
       -automate recruiting a candidate
 
-##Issues:
+## Issues:
 -Weed out fake resume/stuff
 -Weed out fake recruiters
 -SPAM [I hate too many spam emails]
 
 
 
-##Customer Use Cases:
+## Customer Use Cases:
 
 -Find Visa Information
 -Find How many sponsored
@@ -46,24 +51,24 @@ Apply ML in this Project
 -Customer/Business interaction
 
 
-##Market:
+## Market:
 -International students (1 million)
 
 
-##Question:
+## Question:
 -How many hits would we get?
 -Expected Revenue
 -Expected Profit
 
-##Customers:
+## Customers:
 
 -Job Recruiters
 -Internationals seeking for Job
 
 
-##Current Experience:
+## Current Experience:
 
 
-##Plans:
+## Plans:
 
 $20/Month
