@@ -1,6 +1,14 @@
 # ProjectAdana
 
-A Web application to help customers find information on visa
+A Web application to help customers find information on visa, jobs
+
+
+#TechStack:
+-Django
+-DataBase?
+-Python
+-Jquery, Javscript, HTML
+
 
 
 #Tech:
@@ -16,6 +24,8 @@ Apply ML in this Project
 -Find a Job offer with sponsorship
 
 -Can you automate the process?
+      -automate finding a job
+      -automate recruiting a candidate
 
 #Issues:
 -Weed out fake resume/stuff
@@ -48,3 +58,8 @@ Apply ML in this Project
 
 
 #Current Experience:
+
+
+#Plans:
+
+$20/Month
