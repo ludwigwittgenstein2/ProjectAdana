@@ -24,7 +24,7 @@ Apply RL in this Project
 
 Apply ML in this Project
   -What data are we collecting that could help in better product?
-
+  -Build Infrastructure for gathering Data
 
 ## Pain-Points:
 
@@ -51,7 +51,13 @@ Apply ML in this Project
 -Customer/Business interaction
 
 
+## Privacy Policy:
+
+-In Progress
+
+
 ## Market:
+-Business to Consumer Market
 -International students (1 million)
 
 
